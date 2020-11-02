@@ -1,0 +1,5 @@
+Ivanov 20000
+Petrov 15000
+Fetisova 5000
+Sidorov 30000
+Sobolev 25000
